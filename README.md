@@ -1,11 +1,18 @@
 # Desarrollo-de-Sistemas-de-Inteligencia-Artificial
 
 Utilizando Redes Neuronales en Keras/Tensorflow - Trabajo Práctico
+                                                                                                                                                                                          
+Instituto Superior Politécni Córdoba
 
-Instituto Superior Politécnico Córdoba
 Desarrollo de Sistemas de Inteligencia Artificial
-Profesor: Carlos Ignacio Charletti 
+
+Profesor: Carls Ignacio Charletti
+
 Alumno: Medina Jorge Sebastián 
+
+
+
+
 
 
 
